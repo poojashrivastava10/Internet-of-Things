@@ -1,5 +1,5 @@
 # Internet-of-Things
-TCSS 573- Internet of Things                                                                                                                                                                  Pooja Shrivastava               
+TCSS 573- Internet of Things                                                                                                                                                                                
 
                                             SMART IRRIGATION SYSTEM USING WATER PUMP 
                        **************************************************************************** 
